@@ -131,6 +131,7 @@
     position: absolute;
     top: 200px;
     cursor: pointer;
+    z-index: 5;
 }
 #left{
     left: 10px;
@@ -176,7 +177,6 @@
     top: 0;
     left: 0;
 }
-
 
 
 
