@@ -11,9 +11,6 @@
 #new-product .sale{
     width: 360px;
     height: 210px;
-    /*position: relative;
-    top: 0;
-    left: 0;*/
     background-repeat:  no-repeat;
     float: left;
     margin-right: 30px;
@@ -29,9 +26,6 @@
     margin-right: 0;
 }
 #new-product .sale h4{
-    /*position: absolute;
-    right: 50px;
-    bottom: 50px;*/
     margin-top: 150px;
     margin-left: 200px;
     color: #fff;
@@ -65,12 +59,9 @@
 .product-detail{
     background: #ccc;
     height: 180px;
-    /*width: 340px;*/
+    text-align: center;
     padding-left: 10px;
     padding-top: 10px;
-}
-.product-detail h3{
-    /*margin-top: 10px;*/
 }
 .add{
     width: 150px;
@@ -119,7 +110,6 @@
 }
 
 /* problem结束 */
-
 
 
 
